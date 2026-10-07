@@ -1,7 +1,9 @@
 #  Presentily Python
 
 > **A new way to learn Python.**
-
+<p align="center">
+  <img src="docs/screenshots/homepage.png" alt="Presentily Python" width="900">
+</p>
 Presentily Python is an educational web platform designed to help students learn Python through a **visual, interactive, and progressive learning experience**.
 
 The project focuses on an important difficulty faced by beginners: understanding not only **what the code says**, but also **what happens when the code is executed**.
